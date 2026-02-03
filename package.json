@@ -1,7 +1,7 @@
 {
   "name": "valentine-card",
   "version": "0.1.0",
-  "homepage": "https://pollyus.github.io/valentine_card",
+  "homepage": "https://pollyus.github.io/valentine-card",
   "private": true,
   "dependencies": {
     "canvas-confetti": "^1.9.3",
